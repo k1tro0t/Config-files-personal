@@ -1,0 +1,2 @@
+[ 04/02/2025 09:00:31.327 vsync_init ERROR ] No supported vsync method found for this backend
+[ 04/02/2025 09:00:31.327 session_init FATAL ERROR ] Failed to initialize the backend
