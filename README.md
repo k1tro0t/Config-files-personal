@@ -1,2 +1,2 @@
-# Config-files-personal-
+# Config-files-personal
 Configs for linux programs. 
